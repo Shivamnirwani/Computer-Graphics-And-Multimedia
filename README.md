@@ -1,1 +1,1 @@
-# Computer-Graphics-And-Multimedia
+# Computer Graphics And Multimedia
